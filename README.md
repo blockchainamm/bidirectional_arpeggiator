@@ -8,7 +8,7 @@ This python script simulates a bidirectional arpeggiator.
 - revA3 indicates the root note as A3 natural from which the arpeggiator sequence starts in descending frequency order\
    i.e., if there is rev prefixing the note name descending arpeggiator is initated
 - Cs4 indicates the root note as C4 sharp from which the arpeggiator sequence starts in ascending frequency order
-- revBf3 indicates the root note as B3 flat from which the arpeggiator sequence starts in descending frequency order\
+- revBf3 indicates the root note as B3 flat from which the arpeggiator sequence starts in descending frequency order
 
 The notes for which arpeggiator sequence is required to be generated is entered in a list as shown below. 
 
