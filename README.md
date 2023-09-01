@@ -16,7 +16,7 @@ The original list : ['C4', 'revA3', 'G4', 'revD4', 'A3', 'F3', 'revE4', 'Cs4', '
 
 Current note: C4
 ------------------
-Frequencies of arpeggiator notes played for note C4 in sequential order\
+Frequencies in Hz (Hetrz) of arpeggiator notes played for note C4 in sequential order\
 261.6256\
 329.6276\
 391.9954\
@@ -24,7 +24,7 @@ Frequencies of arpeggiator notes played for note C4 in sequential order\
 
 Current note: A3
 ------------------
-Frequencies of arpeggiator notes played for note A3 in sequential order\
+Frequencies in Hz (Hetrz) of arpeggiator notes played for note A3 in sequential order\
 220.0\
 164.8138\
 138.5913\
